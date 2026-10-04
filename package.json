@@ -1,0 +1,19 @@
+{
+  "name": "chai-code",
+  "version": "1.0.0",
+  "description": "this is my first server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "code"
+  ],
+  "author": "romaan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  }
+}
